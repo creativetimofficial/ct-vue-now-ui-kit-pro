@@ -35,15 +35,14 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
+[<img src="https://vuejs.org/images/logo.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-angular)
-[<img src="https://vuejs.org/images/logo.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro)
 
 
-| HTML | Angular | Vue |
+| Vue | HTML | Angular |
 | --- | --- | --- |
-| ![Now UI Kit Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/62/thumb/opt_nukp_thumbnail.jpg) | ![Now UI Kit Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/74/thumb/opt_nukp_angular_thumbnail.jpg)
-| ![Vue Now UI Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/91/thumb/opt_nukp_vue_thumbnail.jpg?1533717420)
+| ![Vue Now UI Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/91/thumb/opt_nukp_vue_thumbnail.jpg?1533717420) | ![Now UI Kit Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/62/thumb/opt_nukp_thumbnail.jpg) | ![Now UI Kit Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/74/thumb/opt_nukp_angular_thumbnail.jpg) 
 
 ## Demo
 
