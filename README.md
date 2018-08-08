@@ -1,11 +1,20 @@
-# [Now UI Kit Pro](https://demos.creative-tim.com/now-ui-kit-pro/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Now%20UI%20Kit%20PRO%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/now-ui-kit-pro/index.html%20via%20%40CreativeTim)
+# [Vue Now UI Kit Pro](https://demos.creative-tim.com/vue-now-ui-kit-pro/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Now%20UI%20Kit%20PRO%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/vue-now-ui-kit-pro%20via%20%40CreativeTim)
 
 
-![version](https://img.shields.io/badge/version-1.2.2-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/62/original/opt_nukp_thumbnail.jpg)
+![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/91/original/opt_nukp_vue_thumbnail.jpg?1533717420)
 
-Now UI Kit PRO is a premium Bootstrap 4 kit provided by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 1000 components, 34 sections and 11 example pages.<br><br> Now UI Kit is one of the most popular UI Kits online, provided in PSD and Sketch formats by Invision. We wanted to find a way for developers worldwide to benefit from using it. We created the fully coded version of [Now UI Kit Free](https://www.creative-tim.com/product/now-ui-kit) and based on the feedback that we've got from our users we created the PRO version.<br><br> Now UI Kit PRO will help you create a clean and simple website that is a perfect fit for today's flat design. It is built using the Bootstrap 4's 12 column grid system, with components designed look awesome together. It makes use of bold colours, beautiful typography, clear photography and spacious arrangements.Create awesome, lifelike prototypes with InVision and Now so your users can experience and give feedback on your vision! To get the PSD and Sketch files, please visit [Invision](https://www.invisionapp.com/now). We used 100 Icons from our friends from Nucleo Icons, check their [20.000 icons here](https://nucleoapp.com/?ref=1712). Bootstrap 4 Support Now UI Kit PRO is built on top of the much awaited Bootstrap 4. This makes starting a new project very simple. It also provides benefits if you are already working on a Bootstrap 4 project; you can just import the Now UI Kit style over it. Now UI Kit PRO is coming with 34 pre-made sections and practically infinite possibilities to generate more sections using the provided components, their classes and colors.
+**[Vue Now UI Kit Pro](http://demos.creative-tim.com/vue-now-ui-kit-pro)** is a premium responsive Bootstrap 4 kit provided by Invision and Creative Tim. It is a beautiful cross-platform UI kit featuring over 1000+ elements and 11 templates.
+
+Vue Now UI Kit Pro is one of the most popular UI Kits online, provided in PSD and Sketch formats by Invision. We wanted to find a way for developers worldwide to benefit from using it. So, in collaboration with Invision, we are launching the HTML version for it!
+
+Now will help you create a clean and simple website that is a perfect fit for today's flat design. It is built using the 12 column grid system, with components designed to fit together perfectly. It makes use of bold colours, beautiful typography, clear photography and spacious arrangements.
+
+Create awesome, lifelike prototypes with InVision and Now so your users can experience and give feedback on your vision!
+
+To get the PSD and Sketch files, please visit Invision (https://www.invisionapp.com/now).
+
 
 Let us know your thoughts below. And good luck with development!
 
@@ -28,11 +37,13 @@ Let us know your thoughts below. And good luck with development!
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-angular)
+[<img src="https://vuejs.org/images/logo.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro)
 
 
-| HTML | Angular |
-| --- | --- |
+| HTML | Angular | Vue |
+| --- | --- | --- |
 | ![Now UI Kit Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/62/thumb/opt_nukp_thumbnail.jpg) | ![Now UI Kit Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/74/thumb/opt_nukp_angular_thumbnail.jpg)
+| ![Vue Now UI Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/91/thumb/opt_nukp_vue_thumbnail.jpg?1533717420)
 
 ## Demo
 
@@ -50,11 +61,11 @@ Let us know your thoughts below. And good luck with development!
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/now-ui-kit-pro)
+- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-now-ui-kit-pro)
 
 
 ## Documentation
-The documentation for the Material Dashboard Pro is hosted at our [website](https://demos.creative-tim.com/now-ui-kit-pro/docs/1.0/getting-started/introduction.html).
+The documentation for the Material Dashboard Pro is hosted at our [website](https://demos.creative-tim.com/vue-now-ui-kit-pro/documentation).
 
 
 ## File Structure
@@ -62,66 +73,137 @@ The documentation for the Material Dashboard Pro is hosted at our [website](http
 Within the download you'll find the following directories and files:
 
 ```
-now-ui-kit-pro/
-├── CHANGELOG.md
-├── README.md
-├── assets
-│   ├── css
-│   │   ├── bootstrap.min.css
-│   │   ├── bootstrap.min.css.map
-│   │   └── now-ui-kit.css
-│   │   └── now-ui-kit.css.map
-│   │   └── now-ui-kit.min.css
-│   ├── demo
-│   ├── fonts
-│   │   ├── nucleo-license.md
-│   │   ├── nucleo-outline.eot
-│   │   ├── nucleo-outline.ttf
-│   │   ├── nucleo-outline.woff
-│   │   └── nucleo-outline.woff2
-│   ├── img
-│   ├── js
-│   │   ├── core
-│   │   │   ├── bootstrap.min.js
-│   │   │   ├── jquery.min.js
-│   │   │   └── popper.min.js
-│   │   ├── now-ui-kit.js
-│   │   ├── now-ui-kit.js.map
-│   │   ├── now-ui-kit.min.js
-│   │   └── plugins
-│   │       ├── bootstrap-datetimepicker.js
-│   │       ├── bootstrap-selectpicker.js
-│   │       ├── bootstrap-switch.js
-│   │       ├── bootstrap-tagsinput.js
-│   │       ├── jasny-bootstrap.min.js
-│   │       ├── moment.min.js
-│   │       ├── nouislider.min.js
-│   │       └── presentation-page
-│   │           └── rellax.min.js
-│   └── scss
-│       ├── now-ui-kit
-│       └── now-ui-kit.scss
-├── docs
-│   └── documentation.html
-├── examples
-│   ├── about-us.html
-│   ├── blog-post.html
-│   ├── blog-posts.html
-│   ├── contact-us.html
-│   ├── ecommerce.html
-│   ├── landing-page.html
-│   ├── login-page.html
-│   ├── pricing.html
-│   ├── product-page.html
-│   ├── profile-page.html
-│   └── signup-page.html
-├── gulpfile.js
-├── index.html
-├── nucleo-icons.html
-├── package.json
-├── presentation.html
-└── sections.html
-
+|-- src
+    |-- App.vue
+    |-- globalDirectives.js
+    |-- main.js
+    |-- registerServiceWorker.js
+    |-- router.js
+    |-- starterRouter.js
+    |-- assets
+    |   |-- fonts
+    |   |   |-- nucleo-license.md
+    |   |   |-- nucleo-outline.eot
+    |   |   |-- nucleo-outline.ttf
+    |   |   |-- nucleo-outline.woff
+    |   |   |-- nucleo-outline.woff2
+    |   |-- sass
+    |       |-- demo.scss
+    |       |-- now-ui-kit.scss
+    |       |-- now-ui-kit
+    |-- components
+    |   |-- Badge.vue
+    |   |-- Button.vue
+    |   |-- Dropdown.vue
+    |   |-- InfoSection.vue
+    |   |-- LoadingPanel.vue
+    |   |-- Modal.vue
+    |   |-- Pagination.vue
+    |   |-- Progress.vue
+    |   |-- Slider.vue
+    |   |-- Switch.vue
+    |   |-- Table.vue
+    |   |-- index.js
+    |   |-- Cards
+    |   |   |-- Card.vue
+    |   |   |-- StatsCard.vue
+    |   |-- Charts
+    |   |   |-- BarChart.js
+    |   |   |-- LineChart.js
+    |   |   |-- utils.js
+    |   |-- Collapse
+    |   |   |-- Collapse.vue
+    |   |   |-- CollapseItem.vue
+    |   |-- Comments
+    |   |   |-- Comment.vue
+    |   |-- Inputs
+    |   |   |-- Checkbox.vue
+    |   |   |-- IconCheckbox.vue
+    |   |   |-- Radio.vue
+    |   |   |-- formGroupInput.vue
+    |   |-- Navbar
+    |   |   |-- NavLink.vue
+    |   |   |-- Navbar.vue
+    |   |   |-- NavbarToggleButton.vue
+    |   |-- NotificationPlugin
+    |   |   |-- Notification.vue
+    |   |   |-- Notifications.vue
+    |   |   |-- index.js
+    |   |-- Tabs
+    |   |   |-- Tab.vue
+    |   |   |-- Tabs.vue
+    |   |-- Timeline
+    |   |   |-- TimeLine.vue
+    |   |   |-- TimeLineItem.vue
+    |   |-- Wizard
+    |       |-- Wizard.vue
+    |       |-- WizardTab.vue
+    |       |-- throttle.js
+    |-- constants
+    |   |-- index.js
+    |-- layout
+    |   |-- MainFooter.vue
+    |   |-- MainNavbar.vue
+    |   |-- StarterFooter.vue
+    |   |-- StarterNavbar.vue
+    |-- pages
+    |   |-- Components.vue
+    |   |-- Presentation.vue
+    |   |-- Sections.vue
+    |   |-- components
+    |   |   |-- BasicElementsSection.vue
+    |   |   |-- Cards.vue
+    |   |   |-- CarouselSection.vue
+    |   |   |-- Footers.vue
+    |   |   |-- ImagesSection.vue
+    |   |   |-- JavascriptComponents.vue
+    |   |   |-- Navigation.vue
+    |   |   |-- Notifications.vue
+    |   |   |-- NucleoIconsSection.vue
+    |   |   |-- Pills.vue
+    |   |   |-- PreFooters.vue
+    |   |   |-- ProgressPagination.vue
+    |   |   |-- Tabs.vue
+    |   |   |-- TypographyTables.vue
+    |   |   |-- BasicElements
+    |   |   |   |-- ButtonsSection.vue
+    |   |   |   |-- CheckboxRadioSection.vue
+    |   |   |   |-- DropdownSelectsSection.vue
+    |   |   |   |-- InputsSection.vue
+    |   |   |-- Cards
+    |   |   |   |-- BlogCards.vue
+    |   |   |   |-- FullbackgroundCards.vue
+    |   |   |   |-- PlainCards.vue
+    |   |   |   |-- PricingCards.vue
+    |   |   |   |-- ProfileCards.vue
+    |   |   |-- TypographyTables
+    |   |       |-- ShoppingTable.vue
+    |   |-- example-pages
+    |   |   |-- AboutUs.vue
+    |   |   |-- BlogPost.vue
+    |   |   |-- BlogPosts.vue
+    |   |   |-- ContactUs.vue
+    |   |   |-- EcommercePage.vue
+    |   |   |-- LandingPage.vue
+    |   |   |-- LoginPage.vue
+    |   |   |-- PricingPage.vue
+    |   |   |-- ProductPage.vue
+    |   |   |-- ProfilePage.vue
+    |   |   |-- SignUpPage.vue
+    |   |-- sections
+    |   |   |-- Blogs.vue
+    |   |   |-- Contact.vue
+    |   |   |-- Features.vue
+    |   |   |-- Headers.vue
+    |   |   |-- Pricing.vue
+    |   |   |-- Projects.vue
+    |   |   |-- Teams.vue
+    |   |   |-- Testimonials.vue
+    |   |-- starter
+    |       |-- StarterPage.vue
+    |-- plugins
+        |-- globalDirectives.js
+        |-- now-ui-kit.js
 ```
 
 ## Browser Support
@@ -132,12 +214,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/now-ui-kit-pro)
-- Buy Page: https://www.creative-tim.com/product/now-ui-kit-pro
-- Documentation is [here](https://demos.creative-tim.com/now-ui-kit-pro/docs/1.0/getting-started/introduction.html)
+- [Live Preview](https://demos.creative-tim.com/vue-now-ui-kit-pro)
+- Buy Page: https://www.creative-tim.com/product/vue-now-ui-kit-pro
+- Documentation is [here](https://demos.creative-tim.com/vue-now-ui-kit-pro/documentation)
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-now-ui-kit-pro/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues)
 - Now UI Kit - [demo](https://www.creative-tim.com/product/now-ui-kit?ref=github-md-pro)
 
 ## Reporting Issues
