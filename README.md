@@ -46,14 +46,18 @@ Let us know your thoughts below. And good luck with development!
 
 ## Demo
 
-- [Start page](https://demos.creative-tim.com/now-ui-kit-pro/index.html)
-- [Sections page](https://demos.creative-tim.com/now-ui-kit-pro/sections.html#headers)
-- [Presentation page ](https://demos.creative-tim.com/now-ui-kit-pro/presentation.html)
-- [Ecommerce Page](https://demos.creative-tim.com/now-ui-kit-pro/examples/ecommerce.html)
-- [Signup page](https://demos.creative-tim.com/now-ui-kit-pro/examples/signup-page.html)
-- [Blog Posts page](https://demos.creative-tim.com/now-ui-kit-pro/examples/blog-posts.html)
-
-[View More](https://demos.creative-tim.com/now-ui-kit-pro).
++ [Live Preview](http://demos.creative-tim.com/vue-now-ui-kit-pro)
++ [Live Presentation Preview](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/presentation)
++ [About-us Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/about)
++ [Blog-post Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/blog-post)
++ [Blog-posts Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/blog-posts)
++ [Contact-us Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/contact)
++ [Landing Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/landing)
++ [Login Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/login)
++ [Pricing Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/pricing)
++ [Ecommerce Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/ecommerce)
++ [Product Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/product)
++ [Profile Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/profile)
 
 
 ## Quick start
