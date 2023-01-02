@@ -1,7 +1,6 @@
 # [Vue Now UI Kit Pro](https://demos.creative-tim.com/vue-now-ui-kit-pro/index.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Now%20UI%20Kit%20PRO%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/vue-now-ui-kit-pro%20via%20%40CreativeTim)
 
-
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.3.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-vue-now-ui-kit-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-now-ui-kit-pro.svg?maxAge=259200)](https://github.com/creativetimofficial/ct-vue-now-ui-kit-pro/issues?q=is%3Aissue+is%3Aclosed) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/91/original/opt_nukp_vue_thumbnail.jpg?1533717420)
 
@@ -15,23 +14,21 @@ Create awesome, lifelike prototypes with InVision and Now so your users can expe
 
 To get the PSD and Sketch files, please visit Invision (https://www.invisionapp.com/now).
 
-
 Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
@@ -39,26 +36,24 @@ Let us know your thoughts below. And good luck with development!
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro)
 [<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-angular)
 
-
-| Vue | HTML | Angular |
-| --- | --- | --- |
-| ![Vue Now UI Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/91/thumb/opt_nukp_vue_thumbnail.jpg?1533717420) | ![Now UI Kit Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/62/thumb/opt_nukp_thumbnail.jpg) | ![Now UI Kit Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/74/thumb/opt_nukp_angular_thumbnail.jpg) 
+| Vue                                                                                                                        | HTML                                                                                                         | Angular                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| ![Vue Now UI Kit Pro](https://s3.amazonaws.com/creativetim_bucket/products/91/thumb/opt_nukp_vue_thumbnail.jpg?1533717420) | ![Now UI Kit Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/62/thumb/opt_nukp_thumbnail.jpg) | ![Now UI Kit Pro Angular](https://s3.amazonaws.com/creativetim_bucket/products/74/thumb/opt_nukp_angular_thumbnail.jpg) |
 
 ## Demo
 
-+ [Live Preview](http://demos.creative-tim.com/vue-now-ui-kit-pro)
-+ [Live Presentation Preview](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/presentation)
-+ [About-us Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/about)
-+ [Blog-post Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/blog-post)
-+ [Blog-posts Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/blog-posts)
-+ [Contact-us Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/contact)
-+ [Landing Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/landing)
-+ [Login Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/login)
-+ [Pricing Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/pricing)
-+ [Ecommerce Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/ecommerce)
-+ [Product Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/product)
-+ [Profile Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/profile)
-
+- [Live Preview](http://demos.creative-tim.com/vue-now-ui-kit-pro)
+- [Live Presentation Preview](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/presentation)
+- [About-us Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/about)
+- [Blog-post Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/blog-post)
+- [Blog-posts Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/blog-posts)
+- [Contact-us Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/contact)
+- [Landing Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/landing)
+- [Login Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/login)
+- [Pricing Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/pricing)
+- [Ecommerce Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/ecommerce)
+- [Product Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/product)
+- [Profile Page](https://demos.creative-tim.com/vue-now-ui-kit-pro/#/profile)
 
 ## Quick start
 
@@ -66,10 +61,9 @@ Quick start options:
 
 - Buy from [Creative Tim](https://www.creative-tim.com/product/vue-now-ui-kit-pro)
 
-
 ## Documentation
-The documentation for the Material Dashboard Pro is hosted at our [website](https://demos.creative-tim.com/vue-now-ui-kit-pro/documentation).
 
+The documentation for the Material Dashboard Pro is hosted at our [website](https://demos.creative-tim.com/vue-now-ui-kit-pro/documentation).
 
 ## File Structure
 
@@ -215,8 +209,8 @@ At present, we officially aim to support the last two versions of the following 
 
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-
 ## Resources
+
 - [Live Preview](https://demos.creative-tim.com/vue-now-ui-kit-pro)
 - Buy Page: https://www.creative-tim.com/product/vue-now-ui-kit-pro
 - Documentation is [here](https://demos.creative-tim.com/vue-now-ui-kit-pro/documentation)
@@ -226,6 +220,7 @@ At present, we officially aim to support the last two versions of the following 
 - Now UI Kit - [demo](https://www.creative-tim.com/product/now-ui-kit?ref=github-md-pro)
 
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the Material Dashboard Pro. Here are some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Material Dashboard Pro. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
@@ -238,7 +233,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
+- Copyright 2023 Creative Tim (https://www.creative-tim.com)
 - Creative Tim [license](https://www.creative-tim.com/license)
 
 ## Useful Links
